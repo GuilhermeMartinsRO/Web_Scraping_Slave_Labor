@@ -49,6 +49,4 @@ for link in file_links:
     # cria o DataFrame diretamente
     df.append(data)
 
-def var():
-    return df,nomes
 
